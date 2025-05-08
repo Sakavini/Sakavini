@@ -2,6 +2,8 @@
 📌 Atualmente eu trabalho como assistente de t.i infraestrutura, mas estou em busca de uma vaga de estágio em desenvolvimento/engenharia de software.<br>
 📌 Não possuo experiências de trabalho comprovadas, mas possuo noções básicas em: 
 <div style="display: inline_block"><br>
+    <img align="center" alt="imghtml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="imgcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="imgjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="imgnode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
 </div>
